@@ -1,11 +1,14 @@
 ### SPRINT #4: Data Manipulation Libraries & Tools
+==================================================
 
 01/10/2018
 
 **Author:** Jon Honda
 
 
-__*Project Description:*__ Build a CSV importer to SQLite in python using an object relational mapping solution (ORM). Use SQLAlchemy as my ORM.
+__*Project Description:*__
+
+Build a CSV importer to SQLite in python using an object relational mapping solution (ORM). Use SQLAlchemy as my ORM.
 
 __*Some specifications:*__
 1. Solution shall be ORM based.
